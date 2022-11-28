@@ -1,8 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
+import SummaryForm from "./pages/summury/SummaryForm";
 
 function App() {
-  return <div></div>;
+  return <SummaryForm />;
 }
 
 export default App;
